@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96132837626",
+    "project_id": "spinandwin-934b8",
+    "storage_bucket": "spinandwin-934b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96132837626:android:f5c99e8306fc8903731943",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6J_wY675pgpMHJtpNcmfCccJn_IozLb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96132837626:android:19c184748ca9535d731943",
+        "android_client_info": {
+          "package_name": "com.spin.spinandwin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6J_wY675pgpMHJtpNcmfCccJn_IozLb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

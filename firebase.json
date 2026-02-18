@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "spinandwin-934b8",
+          "appId": "1:96132837626:android:f5c99e8306fc8903731943",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "spinandwin-934b8",
+          "configurations": {
+            "android": "1:96132837626:android:f5c99e8306fc8903731943"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "us-central",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "auth": {
+    "providers": {
+      "emailPassword": true,
+      "googleSignIn": {
+        "supportEmail": "support@example.com",
+        "oAuthBrandDisplayName": "Spin and Win"
+      }
+    }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
